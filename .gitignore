@@ -1,0 +1,6 @@
+logs/
+reddit-env/
+*.pyc
+__pycache__/
+*.log
+data/output/
